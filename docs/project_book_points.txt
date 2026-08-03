@@ -1,0 +1,15 @@
+TableCraft Project Book Points
+
+1. Introduction
+2. Problem Statement
+3. Objectives
+4. Technology Stack
+5. System Architecture
+6. Modules
+7. Database Design
+8. User Flow
+9. Export Features
+10. Theme Customization
+11. Security and Validation
+12. Future Scope
+13. Conclusion
